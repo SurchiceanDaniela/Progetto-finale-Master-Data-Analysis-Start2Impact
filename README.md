@@ -1,4 +1,5 @@
 Progetto
+
 Vuoi analizzare i dati 2021 di un marketplace di abbigliamento second hand, in cui le persone possono rivendere i loro abiti. Nel dataset troverai il dettaglio di tutte le vendite che hanno fatto gli utenti e potrai fare analisi su quali prodotti e designer sono andati meglio, sul trend temporale, e potrai anche analizzare i cluster di utenti.
 Trovi qui il dataset (https://drive.google.com/file/d/15Nm6w4guCwXsav8TDuZR_Ss5CZy-mae7/view) su cui puoi lavorare.
 1. EDA su Python: Qui puoi esplorare il dataset e dare una panoramica del comportamento degli utenti.
